@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/Hip
+    localPosition: {x: -0.1031337, y: -0.70512414, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7199441, w: 0.69403213}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Body
+    localPosition: {x: 0.24, y: -0.00000002980232, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Body/Head
+    localPosition: {x: 0.6999999, y: -5.8341566e-21, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.06968693, w: 0.9975689}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Body/L-Arm
+    localPosition: {x: 0.66415405, y: 0.49081916, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.96092135, w: 0.27682182}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Body/L-Arm/L-Arm-2
+    localPosition: {x: 0.43791968, y: 0.00000008940697, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6362414, w: 0.7714901}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Body/R-Arm
+    localPosition: {x: 0.64731026, y: -0.36776412, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9475985, w: 0.31946382}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Body/R-Arm/R-Arm-2
+    localPosition: {x: 0.4000002, y: 0.00000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.85478866, w: 0.51897633}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Feet
+    localPosition: {x: -0.0729792, y: -0.0036399886, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.99990976, w: 0.013433843}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Feet/Feet-2
+    localPosition: {x: 0.20619729, y: -0.0000000011641532, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0133921765, w: 0.99991035}
+    localScale: {x: 1, y: 1, z: 1}
